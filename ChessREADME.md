@@ -40,7 +40,7 @@ permainan dapat dimainkan antara dua pemain atau melawan AI, serta dilengkapi de
    6. Color = Pewarnaan teks dan latar sesuai kondisi sel/bidak
 
 # Cara menjalankan
-
+https://github.com/Renaiacl/Renaiacl/blob/main/README.md?plain=1
 
 # catatan
 1. AI yang digunakan dalam program ini masih ada kekurangan (Pemula)
