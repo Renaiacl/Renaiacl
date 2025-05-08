@@ -39,9 +39,6 @@ permainan dapat dimainkan antara dua pemain atau melawan AI, serta dilengkapi de
    5. cheespiece = Kelas induk untuk semua buah catur
    6. Color = Pewarnaan teks dan latar sesuai kondisi sel/bidak
 
-# Cara menjalankan
-https://github.com/Renaiacl/Renaiacl/edit/main/ChessREADME.md
-
 # catatan
 1. AI yang digunakan dalam program ini masih ada kekurangan (Pemula)
 
